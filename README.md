@@ -1,1 +1,1 @@
-# Qualit-tssicherungsbeispiel
+# Qualitätssicherungsbeispiel
